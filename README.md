@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 You can find me on:
   Twitter: https://twitter.com/TheInfiniteInt1
-  Youtube: youtube.com/c/theinfinites
+  Youtube: www.youtube.com/c/theinfinites
   Instagram: https://www.instagram.com/the_infinite_introvert/
 
 <!---
